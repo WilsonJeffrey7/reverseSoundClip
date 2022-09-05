@@ -3,8 +3,6 @@ import java.util.EmptyStackException;
 /**
  * Interface for a stack of primitive doubles.
  * 
- *          NOTE: You will need to provide much better descriptive
- *          comments than the ones provided in this interface
  */
 public interface BKStack {
     

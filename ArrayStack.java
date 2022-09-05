@@ -1,7 +1,4 @@
 // Jeffrey Wilson
-// 2/25/22
-// CS 3345.503
-// Homework 1
 
 import java.util.EmptyStackException;
 

@@ -6,11 +6,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.StringTokenizer;
 
-/**
- * Read a .dat file and reverse it.
- * 
- * couresy of Milne @UWashington
- */
+
 public class BackMasking{
     
     //@SuppressWarnings("unused")
